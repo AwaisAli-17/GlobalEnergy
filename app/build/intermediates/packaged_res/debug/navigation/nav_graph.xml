@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_graph"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.globalenergy.Fragments.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.globalenergy.Fragments.ContactFragment"
+        android:label="Contact"
+        />
+
+    <fragment
+        android:id="@+id/nav_quote"
+        android:name="com.example.globalenergy.Fragments.QuoteFragment"
+        android:label="Quote" />
+
+    <fragment
+        android:id="@+id/nav_products"
+        android:name="com.example.globalenergy.Fragments.ProductsFragment"
+        android:label="Product" />
+</navigation>
