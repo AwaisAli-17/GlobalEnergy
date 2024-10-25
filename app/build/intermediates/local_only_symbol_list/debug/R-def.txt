@@ -14,6 +14,9 @@ drawable baseline_dehaze_24
 drawable baseline_home_24
 drawable baseline_keyboard_double_arrow_right_24
 drawable baseline_products_24
+drawable com_news1
+drawable com_news2
+drawable com_news3
 drawable conversation
 drawable home_page_new
 drawable ic_launcher_background
@@ -28,7 +31,13 @@ drawable prod_3
 drawable prod_4
 drawable ranking
 id bottom_navigation
+id button0_prod
+id button1_prod
+id button2_prod
+id button3_prod
 id case_study_text
+id commercial_card
+id commercial_text
 id conatct_text
 id coverImage
 id drawer_layout
@@ -38,6 +47,9 @@ id image1
 id image2
 id image3
 id image4
+id imageComm1
+id imageComm2
+id imageComm3
 id image_0
 id image_1
 id image_2
@@ -80,6 +92,7 @@ id textHeader
 id tool_bar
 layout activity_main
 layout dropdown_item
+layout fragment_commercial
 layout fragment_contact
 layout fragment_home
 layout fragment_products

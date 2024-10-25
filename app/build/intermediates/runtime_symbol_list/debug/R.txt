@@ -2968,6 +2968,9 @@ int drawable btn_radio_off_mtrl 0x7f070084
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f070085
 int drawable btn_radio_on_mtrl 0x7f070086
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070087
+int drawable com_news1 0x7f0700f7
+int drawable com_news2 0x7f0700f8
+int drawable com_news3 0x7f0700f9
 int drawable conversation 0x7f070088
 int drawable design_fab_background 0x7f070089
 int drawable design_ic_visibility 0x7f07008a
@@ -3179,6 +3182,10 @@ int id bounce 0x7f080060
 int id bounceBoth 0x7f080061
 int id bounceEnd 0x7f080062
 int id bounceStart 0x7f080063
+int id button0_prod 0x7f080230
+int id button1_prod 0x7f080231
+int id button2_prod 0x7f080232
+int id button3_prod 0x7f080233
 int id buttonPanel 0x7f080064
 int id cache_measures 0x7f080065
 int id callMeasure 0x7f080066
@@ -3203,6 +3210,8 @@ int id clip_vertical 0x7f080078
 int id clockwise 0x7f080079
 int id closest 0x7f08007a
 int id collapseActionView 0x7f08007b
+int id commercial_card 0x7f080237
+int id commercial_text 0x7f080238
 int id compress 0x7f08007c
 int id conatct_text 0x7f08007d
 int id confirm_button 0x7f08007e
@@ -3311,6 +3320,9 @@ int id image1 0x7f0800e4
 int id image2 0x7f0800e5
 int id image3 0x7f0800e6
 int id image4 0x7f0800e7
+int id imageComm1 0x7f080234
+int id imageComm2 0x7f080235
+int id imageComm3 0x7f080236
 int id image_0 0x7f080228
 int id image_1 0x7f080219
 int id image_2 0x7f08021a
@@ -3766,6 +3778,7 @@ int layout design_navigation_menu_item 0x7f0b002a
 int layout design_text_input_end_icon 0x7f0b002b
 int layout design_text_input_start_icon 0x7f0b002c
 int layout dropdown_item 0x7f0b002d
+int layout fragment_commercial 0x7f0b0072
 int layout fragment_contact 0x7f0b002e
 int layout fragment_home 0x7f0b002f
 int layout fragment_products 0x7f0b0030

@@ -1,0 +1,87 @@
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <View
+        android:id="@+id/header_view"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@color/blue" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Commercial Solutions"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="26dp"
+        android:layout_marginTop="15dp"
+        />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/overlapping_card"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="top"
+        android:layout_marginTop="80dp"
+        android:layout_marginHorizontal="10dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="8dp">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/commercial_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginVertical="20dp"
+                    android:justificationMode="inter_word"
+                    android:text="Global Energy Solutions design and manufacture Air Source Heat Pump systems to suit a wide range of commercial properties, anything from factories to farm buildings, through to schools and swimming pools."
+                    />
+
+                <ImageView
+                    android:id="@+id/imageComm1"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:src="@drawable/com_news1"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@id/commercial_text"
+                    android:translationX="-400dp" /> <!-- Initial position off-screen to the left -->
+
+                <!-- Second Image (from right) -->
+                <ImageView
+                    android:id="@+id/imageComm2"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:src="@drawable/com_news2"
+                    android:layout_below="@id/imageComm1"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="20dp"
+                    android:translationX="400dp" /> <!-- Initial position off-screen to the right -->
+
+                <!-- Third Image (from left) -->
+                <ImageView
+                    android:id="@+id/imageComm3"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:src="@drawable/com_news3"
+                    android:layout_below="@id/imageComm2"
+                    android:layout_marginTop="20dp"
+                    android:translationX="-400dp" />
+
+            </RelativeLayout>
+        </ScrollView>
+    </com.google.android.material.card.MaterialCardView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

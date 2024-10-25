@@ -2969,6 +2969,9 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable com_news1
+drawable com_news2
+drawable com_news3
 drawable conversation
 drawable design_fab_background
 drawable design_ic_visibility
@@ -3180,6 +3183,10 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id button0_prod
+id button1_prod
+id button2_prod
+id button3_prod
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3204,6 +3211,8 @@ id clip_vertical
 id clockwise
 id closest
 id collapseActionView
+id commercial_card
+id commercial_text
 id compress
 id conatct_text
 id confirm_button
@@ -3312,6 +3321,9 @@ id image1
 id image2
 id image3
 id image4
+id imageComm1
+id imageComm2
+id imageComm3
 id image_0
 id image_1
 id image_2
@@ -3767,6 +3779,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout dropdown_item
+layout fragment_commercial
 layout fragment_contact
 layout fragment_home
 layout fragment_products
