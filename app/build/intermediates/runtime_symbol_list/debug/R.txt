@@ -2952,6 +2952,8 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f070074
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f070075
 int drawable abc_textfield_search_material 0x7f070076
 int drawable abc_vector_test 0x7f070077
+int drawable agri_case 0x7f0700fa
+int drawable architects 0x7f070100
 int drawable avd_hide_password 0x7f070078
 int drawable avd_show_password 0x7f070079
 int drawable baseline_contact_support_24 0x7f07007a
@@ -2977,7 +2979,10 @@ int drawable design_ic_visibility 0x7f07008a
 int drawable design_ic_visibility_off 0x7f07008b
 int drawable design_password_eye 0x7f07008c
 int drawable design_snackbar_background 0x7f07008d
+int drawable edu_case 0x7f0700fb
+int drawable home 0x7f070101
 int drawable home_page_new 0x7f07008e
+int drawable hospit_case 0x7f0700fc
 int drawable ic_arrow_back_black_24 0x7f07008f
 int drawable ic_call_answer 0x7f070090
 int drawable ic_call_answer_low 0x7f070091
@@ -2998,8 +3003,11 @@ int drawable ic_mtrl_chip_checked_black 0x7f07009f
 int drawable ic_mtrl_chip_checked_circle 0x7f0700a0
 int drawable ic_mtrl_chip_close_circle 0x7f0700a1
 int drawable ic_search_black_24 0x7f0700a2
+int drawable ind_case 0x7f0700fd
+int drawable installers 0x7f070102
 int drawable location 0x7f0700a3
 int drawable logo_global_energy 0x7f0700a4
+int drawable logo_icon 0x7f070106
 int drawable m3_appbar_background 0x7f0700a5
 int drawable m3_avd_hide_password 0x7f0700a6
 int drawable m3_avd_show_password 0x7f0700a7
@@ -3022,6 +3030,7 @@ int drawable material_ic_keyboard_arrow_previous_black_24dp 0x7f0700b7
 int drawable material_ic_keyboard_arrow_right_black_24dp 0x7f0700b8
 int drawable material_ic_menu_arrow_down_black_24dp 0x7f0700b9
 int drawable material_ic_menu_arrow_up_black_24dp 0x7f0700ba
+int drawable merchants 0x7f070103
 int drawable mtrl_bottomsheet_drag_handle 0x7f0700bb
 int drawable mtrl_checkbox_button 0x7f0700bc
 int drawable mtrl_checkbox_button_checked_unchecked 0x7f0700bd
@@ -3079,6 +3088,10 @@ int drawable prod_2 0x7f0700f4
 int drawable prod_3 0x7f0700f5
 int drawable prod_4 0x7f0700f6
 int drawable ranking 0x7f0700ef
+int drawable res_case 0x7f0700fe
+int drawable resource_private 0x7f070104
+int drawable social 0x7f070105
+int drawable test_case 0x7f0700ff
 int drawable test_level_drawable 0x7f0700f0
 int drawable tooltip_frame_dark 0x7f0700f1
 int drawable tooltip_frame_light 0x7f0700f2
@@ -3089,6 +3102,7 @@ int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
+int id Resercial_text 0x7f080242
 int id SHIFT 0x7f080007
 int id SHOW_ALL 0x7f080008
 int id SHOW_PATH 0x7f080009
@@ -3320,9 +3334,17 @@ int id image1 0x7f0800e4
 int id image2 0x7f0800e5
 int id image3 0x7f0800e6
 int id image4 0x7f0800e7
+int id imageCase1 0x7f08023c
+int id imageCase2 0x7f08023d
+int id imageCase3 0x7f08023e
+int id imageCase4 0x7f08023f
+int id imageCase5 0x7f080240
 int id imageComm1 0x7f080234
 int id imageComm2 0x7f080235
 int id imageComm3 0x7f080236
+int id imageRes1 0x7f080243
+int id imageRes2 0x7f080244
+int id imageRes3 0x7f080245
 int id image_0 0x7f080228
 int id image_1 0x7f080219
 int id image_2 0x7f08021a
@@ -3486,10 +3508,12 @@ int id prod3_title 0x7f080226
 int id progress_circular 0x7f080176
 int id progress_horizontal 0x7f080177
 int id property_type 0x7f080178
+int id quote_card 0x7f080239
 int id radio 0x7f080179
 int id ratio 0x7f08017a
 int id rectangles 0x7f08017b
 int id report_drawn 0x7f08017c
+int id residential_card 0x7f08023a
 int id reverseSawtooth 0x7f08017d
 int id right 0x7f08017e
 int id rightToLeft 0x7f08017f
@@ -3572,6 +3596,7 @@ int id staticLayout 0x7f0801cb
 int id staticPostLayout 0x7f0801cc
 int id stop 0x7f0801cd
 int id stretch 0x7f0801ce
+int id study_card 0x7f08023b
 int id submenuarrow 0x7f0801cf
 int id submit_area 0x7f0801d0
 int id supportScrollUp 0x7f0801d1
@@ -3628,6 +3653,7 @@ int id uniform 0x7f080203
 int id unlabeled 0x7f080204
 int id up 0x7f080205
 int id useLogo 0x7f080206
+int id usecase_text 0x7f080241
 int id vertical_only 0x7f080207
 int id view_offset_helper 0x7f080208
 int id view_transition 0x7f080209
@@ -3783,6 +3809,8 @@ int layout fragment_contact 0x7f0b002e
 int layout fragment_home 0x7f0b002f
 int layout fragment_products 0x7f0b0030
 int layout fragment_quote 0x7f0b0031
+int layout fragment_residential 0x7f0b0074
+int layout fragment_use_case 0x7f0b0073
 int layout ime_base_split_test_activity 0x7f0b0032
 int layout ime_secondary_split_test_activity 0x7f0b0033
 int layout m3_alert_dialog 0x7f0b0034

@@ -1,4 +1,4 @@
-#Fri Oct 25 17:34:54 EEST 2024
+#Fri Oct 25 23:58:53 EEST 2024
 base.0=C\:\\Users\\123\\AndroidStudioProjects\\GlobalEnergy\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\123\\AndroidStudioProjects\\GlobalEnergy\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=C\:\\Users\\123\\AndroidStudioProjects\\GlobalEnergy\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

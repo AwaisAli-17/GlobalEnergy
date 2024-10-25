@@ -2953,6 +2953,8 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable agri_case
+drawable architects
 drawable avd_hide_password
 drawable avd_show_password
 drawable baseline_contact_support_24
@@ -2978,7 +2980,10 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edu_case
+drawable home
 drawable home_page_new
+drawable hospit_case
 drawable ic_arrow_back_black_24
 drawable ic_call_answer
 drawable ic_call_answer_low
@@ -2999,8 +3004,11 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_search_black_24
+drawable ind_case
+drawable installers
 drawable location
 drawable logo_global_energy
+drawable logo_icon
 drawable m3_appbar_background
 drawable m3_avd_hide_password
 drawable m3_avd_show_password
@@ -3023,6 +3031,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable merchants
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3080,6 +3089,10 @@ drawable prod_2
 drawable prod_3
 drawable prod_4
 drawable ranking
+drawable res_case
+drawable resource_private
+drawable social
+drawable test_case
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3090,6 +3103,7 @@ id CTRL
 id FUNCTION
 id META
 id NO_DEBUG
+id Resercial_text
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3321,9 +3335,17 @@ id image1
 id image2
 id image3
 id image4
+id imageCase1
+id imageCase2
+id imageCase3
+id imageCase4
+id imageCase5
 id imageComm1
 id imageComm2
 id imageComm3
+id imageRes1
+id imageRes2
+id imageRes3
 id image_0
 id image_1
 id image_2
@@ -3487,10 +3509,12 @@ id prod3_title
 id progress_circular
 id progress_horizontal
 id property_type
+id quote_card
 id radio
 id ratio
 id rectangles
 id report_drawn
+id residential_card
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3573,6 +3597,7 @@ id staticLayout
 id staticPostLayout
 id stop
 id stretch
+id study_card
 id submenuarrow
 id submit_area
 id supportScrollUp
@@ -3629,6 +3654,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id usecase_text
 id vertical_only
 id view_offset_helper
 id view_transition
@@ -3784,6 +3810,8 @@ layout fragment_contact
 layout fragment_home
 layout fragment_products
 layout fragment_quote
+layout fragment_residential
+layout fragment_use_case
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout m3_alert_dialog

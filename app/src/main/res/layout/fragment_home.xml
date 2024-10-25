@@ -60,6 +60,7 @@
         app:layout_constraintTop_toBottomOf="@id/textHeader">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/residential_card"
             android:layout_width="0dp"
             android:layout_height="160dp"
             android:layout_weight="1"
@@ -170,6 +171,7 @@
         app:cardElevation="1dp">
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/study_card"
             android:layout_width="0dp"
             android:layout_height="160dp"
             android:layout_weight="1"
@@ -218,6 +220,7 @@
         </com.google.android.material.card.MaterialCardView>
 
         <com.google.android.material.card.MaterialCardView
+            android:id="@+id/quote_card"
             android:layout_width="0dp"
             android:layout_height="160dp"
             android:layout_weight="1"

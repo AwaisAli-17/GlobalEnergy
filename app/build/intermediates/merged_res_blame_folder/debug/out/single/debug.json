@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_ind_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\ind_case.png"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -14,6 +18,14 @@
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\menu_bottom_nav.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_edu_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\edu_case.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_installers.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\installers.png"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_baseline_keyboard_double_arrow_right_24.xml.flat",
@@ -36,6 +48,10 @@
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\home_page_new.jpg"
     },
     {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_test_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\test_case.png"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_fragment_quote.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\layout\\fragment_quote.xml"
     },
@@ -46,6 +62,10 @@
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_fragment_products.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_res_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\res_case.png"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_com_news3.jpg.flat",
@@ -76,6 +96,10 @@
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_architects.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\architects.png"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\layout\\activity_main.xml"
     },
@@ -84,16 +108,16 @@
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\ic_launcher_foreground.xml"
     },
     {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_home.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\home.png"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_baseline_home_24.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\baseline_home_24.xml"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "com.example.globalenergy.app-merged_res-47:/layout_fragment_commercial.xml.flat",
-        "source": "com.example.globalenergy.app-main-49:/layout/fragment_commercial.xml"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\navigation_nav.xml.flat",
@@ -106,6 +130,10 @@
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_conversation.png.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\conversation.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_fragment_residential.xml.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\layout\\fragment_residential.xml"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_dropdown_item.xml.flat",
@@ -132,6 +160,10 @@
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\location.png"
     },
     {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_social.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\social.png"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_prod_3.png.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\prod_3.png"
     },
@@ -142,6 +174,14 @@
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_agri_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\agri_case.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_logo_icon.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\logo_icon.png"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_fragment_home.xml.flat",
@@ -164,12 +204,20 @@
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\xml\\backup_rules.xml"
     },
     {
+        "merged": "com.example.globalenergy.app-merged_res-47:/layout_fragment_residential.xml.flat",
+        "source": "com.example.globalenergy.app-main-49:/layout/fragment_residential.xml"
+    },
+    {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\layout_fragment_use_case.xml.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\layout\\fragment_use_case.xml"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
@@ -186,6 +234,18 @@
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_baseline_products_24.xml.flat",
         "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\baseline_products_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_resource_private.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\resource_private.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_merchants.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\merchants.png"
+    },
+    {
+        "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\drawable_hospit_case.png.flat",
+        "source": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-main-49:\\drawable\\hospit_case.png"
     },
     {
         "merged": "C:\\Users\\123\\.gradle\\daemon\\8.0\\com.example.globalenergy.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
