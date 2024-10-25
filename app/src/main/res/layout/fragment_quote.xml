@@ -156,9 +156,8 @@
                 android:layout_below="@id/outlinedAddressField"
                 android:layout_centerHorizontal="true"
                 android:layout_marginVertical="25dp"
-                android:text="Get Quote">
+                android:text="Get Quote"/>
 
-            </com.google.android.material.button.MaterialButton>
 
         </RelativeLayout>
 

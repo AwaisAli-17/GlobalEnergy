@@ -28,16 +28,16 @@
         </androidx.appcompat.widget.Toolbar>
 
 
-        <!-- Your main content, e.g., a fragment container -->
+       <!-- Your main content, e.g., a fragment container -->
         <androidx.fragment.app.FragmentContainerView
             android:id="@+id/nav_host_fragment"
-            android:name="androidx.navigation.fragment.NavHostFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:navGraph="@navigation/nav_graph"
             android:layout_marginTop="70dp"
             android:layout_marginBottom="50dp"
-            app:defaultNavHost="true" />
+            app:navGraph="@navigation/nav"
+            app:defaultNavHost="true"
+            />
 
         <!-- Bottom Navigation Bar -->
         <com.google.android.material.bottomnavigation.BottomNavigationView

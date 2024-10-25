@@ -31,13 +31,44 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         setContentView(R.layout.activity_main)
         drawerLayout = findViewById<DrawerLayout>(R.id.drawer_layout)
         val navigationView = findViewById<NavigationView>(R.id.nav_view)
- //       val bottomNav = findViewById<BottomNavigationView>(R.id.bottom_navigation)
+        val bottomNav = findViewById<BottomNavigationView>(R.id.bottom_navigation)
 //        val navHostFragment = supportFragmentManager
 //            .findFragmentById(R.id.nav_host_fragment) as NavHostFragment
 //        navController = navHostFragment.navController
 //        navigationView.setupWithNavController(navController)
 //        bottomNav.setupWithNavController(navController)
         navigationView.setNavigationItemSelectedListener(this)
+
+        bottomNav.setOnItemSelectedListener { item ->
+            when (item.itemId) {
+                R.id.nav_home -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment, HomeFragment()).commit()
+                    true
+                }
+
+                R.id.nav_contact -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment, ContactFragment()).commit()
+                    true
+                }
+
+                R.id.nav_products -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment, ProductsFragment()).commit()
+                    true
+                }
+
+                R.id.nav_quote -> {
+                    supportFragmentManager.beginTransaction()
+                        .replace(R.id.nav_host_fragment, QuoteFragment()).commit()
+                    true
+                }
+
+                else -> false
+            }
+        }
+
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
                 .replace(R.id.nav_host_fragment, HomeFragment()).commit()
@@ -57,10 +88,13 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         when (item.itemId) {
             R.id.nav_home -> supportFragmentManager.beginTransaction()
                 .replace(R.id.nav_host_fragment, HomeFragment()).commit()
+
             R.id.nav_contact -> supportFragmentManager.beginTransaction()
                 .replace(R.id.nav_host_fragment, ContactFragment()).commit()
+
             R.id.nav_products -> supportFragmentManager.beginTransaction()
                 .replace(R.id.nav_host_fragment, ProductsFragment()).commit()
+
             R.id.nav_quote -> supportFragmentManager.beginTransaction()
                 .replace(R.id.nav_host_fragment, QuoteFragment()).commit()
         }
